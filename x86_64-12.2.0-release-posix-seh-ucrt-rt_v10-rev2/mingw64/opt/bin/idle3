@@ -1,0 +1,5 @@
+#!C:\mingw-builds\ucrt64-seh-posix\x86_64-1220-posix-seh-ucrt-rt_v10-rev2\mingw64\opt/bin/python3.9.exe
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
