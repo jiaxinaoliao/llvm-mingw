@@ -16,3 +16,17 @@ gcc是12.2.0
 clang是15.0.0
 
 都是最新的
+
+
+
+
+
+2023.6.3
+
+gcc用scoop进行安装管理了
+
+```shell
+scoop install mingw
+```
+
+即可

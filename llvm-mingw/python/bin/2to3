@@ -1,0 +1,5 @@
+#!/home/runner/work/llvm-mingw/llvm-mingw/python-native/bin/python3.10.exe
+import sys
+from lib2to3.main import main
+
+sys.exit(main("lib2to3.fixes"))

@@ -1,0 +1,5 @@
+#!/home/runner/work/llvm-mingw/llvm-mingw/python-native/bin/python3.10.exe
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
